@@ -1,3 +1,7 @@
+# Github Cards App
+This project is based on the tutorial by Sameer Buna on Rect in pluralsight. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
