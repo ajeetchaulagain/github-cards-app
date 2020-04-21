@@ -1,4 +1,4 @@
-# Github Cards App
+# :bust_in_silhouette: Github Cards App
 Simply retrieves user profile based on the username in input element of form
 
 
